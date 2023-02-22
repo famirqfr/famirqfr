@@ -10,7 +10,7 @@
 In 2016, I entered the world of programming and started building and designing Android software with java. I continued my activity with WordPress and website design and got acquainted with skills such as ASP.Net Core, Django for the server side and Angular, reatjs for the user side. 
 Since 2019, I became familiar with the world of artificial intelligence and became interested in this field of engineering and computer programming, and in addition to my activities in the field of website design and web software, I also followed the learning of artificial intelligence, which I was able to do with popular tools and libraries such as numpy, pandas and... to learn about data science and machine learning
 
-💼 <b>Hiring:</b> Rayannazm company.
+💼 <b>Hiring:</b> Melal Credit Institution
 
 🎈 <b>Fun fact:</b>  The story of learning continues...
 ### Connect with me
